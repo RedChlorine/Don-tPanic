@@ -2,4 +2,4 @@
 name = "PySide Project"
 
 [tool.pyside6-project]
-files = ["Interface.py", "Scraper.py", "Utils.py", "main.py"]
+files = ["Interface.py", "Scraper.py", "Utils.py", "main.py", "test.py"]
