@@ -52,3 +52,11 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+__pycache__/
+*.pyc
+*.venv/
+*.env
+*.idea/
+*.vscode/
+*.log
